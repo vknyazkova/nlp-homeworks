@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.rar
+*.zip
+*.pyc
+*.xml
+*.iml
+.idea/
+# macos
+.DS_Store
+*.bin
